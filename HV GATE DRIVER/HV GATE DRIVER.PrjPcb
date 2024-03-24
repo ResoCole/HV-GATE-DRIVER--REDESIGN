@@ -1206,6 +1206,14 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=+15V|NetColor=$00BF00BF
+Net2=NetName=+3V3|NetColor=clTeal
+Net3=NetName=0V|NetColor=clNavy
+Net4=NetName=-3V|NetColor=clMaroon
+Net5=NetName=-8V|NetColor=clOlive
+Net6=NetName=AGND|NetColor=$00BFBF00
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
